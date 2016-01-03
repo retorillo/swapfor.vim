@@ -19,7 +19,7 @@ git clone https://github.com/retorillo/swapfor.vim.git $home/vimfiles/bundle/swa
 ## Usage
 
 ```vimL
-:SwapBy[!] {path}
+:SwapFor[!] {path}
 ```
 
 ## License
